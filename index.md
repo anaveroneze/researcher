@@ -4,34 +4,29 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="ana.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Hi! I am a PhD student of Computer Engineering at Northeastern University in Boston.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+TBD
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. TBT
 
-## Typography
+## Awards
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
+Year | Award
+-----|-------
+2024 | WiCyS 2024 Conference Scholarship
+2022 | ACM SIGHPC Computational and Data Science Fellowship (among 11 awardees)  
+2022 | Cadence Latinx Students in Technology Scholarship (among 8 awarde)
+2022 | Pass it On Award by AnitaB.org (among 8 awardees)
+2022 | DAC Conference Young Fellow
+2020 | 1st place - HPC Systems Category in the STEM-Trek Science Slam [video contest](http://www.stem-trek.org/2020/11/15/scienceslamsc20-grand-prize-winner)
+2019 | 1st place ACM SRC at Grace Hopper Celebration (among 160 selected posters) 
 
 ---
 
