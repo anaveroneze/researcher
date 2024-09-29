@@ -16,7 +16,7 @@ TBD
 
 All in my [Google Scholar.](https://scholar.google.com/citations?user=7Z_a7CcAAAAJ&hl=en)
 
-1. SC'2024 Toward Sustainable HPC: In-Production Deployment of Incentive-Based Power Efficiency Mechanism on the Fugaku Supercomputer. A. Solórzano, K. Sato, D. Tiwari, K. Yamamoto, J. Brandt, B. Schwaller, S. Walton, J. Green, F. Shoji. \textit{Best Student Paper Award Nomination
+1. SC'2024 Toward Sustainable HPC: In-Production Deployment of Incentive-Based Power Efficiency Mechanism on the Fugaku Supercomputer. A. Solórzano, K. Sato, D. Tiwari, K. Yamamoto, J. Brandt, B. Schwaller, S. Walton, J. Green, F. Shoji. **Best Student Paper Award Nomination**
 
 2. HPCMASPA - CLUSTER'2022 [LDMS Darshan Connector: For Run Time Diagnosis of HPC Application I/O Performance.](https://ieeexplore.ieee.org/document/9912673). S. Walton, O. Aaziz, A. Solórzano, B. Schwaller
 
