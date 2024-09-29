@@ -21,11 +21,11 @@ All in my [Google Scholar.](https://scholar.google.com/citations?user=7Z_a7CcAAA
 2. HPCMASPA - CLUSTER'2022 [LDMS Darshan Connector: For Run Time Diagnosis of HPC Application I/O Performance.](https://ieeexplore.ieee.org/document/9912673). S. Walton, O. Aaziz, A. Solórzano, B. Schwaller
 
 3. ISC'2022 [Understanding Distributed Deep Learning Performance by Correlating HPC and Machine Learning Measurements.](https://link.springer.com/chapter/10.1007/978-3-031-07312-0_14)
-. A. Solórzano}, L. Schnorr, P. Navaux.
+. A. Solórzano, L. Schnorr, P. Navaux.
 
-4. FIE'202 [BlocklyPar: from sequential to parallel with block-based visual programming.](https://ieeexplore.ieee.org/document/9637261) A. Solórzano}, A. Charão
+4. FIE'202 [BlocklyPar: from sequential to parallel with block-based visual programming.](https://ieeexplore.ieee.org/document/9637261) A. Solórzano, A. Charão
 
-5. HPCS'2020 [Temporal Load Imbalance on Ondes3D Seismic Simulator for Different Multicore Architectures.](https://arxiv.org/abs/2409.11392) A. Solórzano}, P. Navaux, L. Schnorr
+5. HPCS'2020 [Temporal Load Imbalance on Ondes3D Seismic Simulator for Different Multicore Architectures.](https://arxiv.org/abs/2409.11392) A. Solórzano, P. Navaux, L. Schnorr
 
 6. PEARC'2020 [Using Visualization of Performance Data to Investigate Load Imbalance of a Geophysics Parallel Application.](https://dl.acm.org/doi/10.1145/3311790.3400844) A. Solórzano, L. Nesi, L. Schnorr
 
