@@ -20,7 +20,7 @@ TBD
 
 Year | Award
 -----|-------
-2024 | WiCyS 2024 Conference Scholarship
+2024 | WiCyS Women in Cybersecurity Conference Scholarship Recipient
 2022 | ACM SIGHPC Computational and Data Science Fellowship (among 11 awardees)  
 2022 | Cadence Latinx Students in Technology Scholarship (among 8 awarde)
 2022 | Pass it On Award by AnitaB.org (among 8 awardees)
