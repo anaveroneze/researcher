@@ -14,7 +14,32 @@ TBD
 
 ## Publications
 
-1. TBT
+All in my [Google Scholar.](https://scholar.google.com/citations?user=7Z_a7CcAAAAJ&hl=en)
+
+1. SC'2024 Toward Sustainable HPC: In-Production Deployment of Incentive-Based Power Efficiency Mechanism on the Fugaku Supercomputer. A. Solórzano, K. Sato, D. Tiwari, K. Yamamoto, J. Brandt, B. Schwaller, S. Walton, J. Green, F. Shoji. \textit{Best Student Paper Award Nomination
+
+2. HPCMASPA - CLUSTER'2022 [LDMS Darshan Connector: For Run Time Diagnosis of HPC Application I/O Performance.](https://ieeexplore.ieee.org/document/9912673). S. Walton, O. Aaziz, A. Solórzano, B. Schwaller
+
+3. ISC'2022 [Understanding Distributed Deep Learning Performance by Correlating HPC and Machine Learning Measurements.](https://link.springer.com/chapter/10.1007/978-3-031-07312-0_14)
+. A. Solórzano}, L. Schnorr, P. Navaux.
+
+4. FIE'202 [BlocklyPar: from sequential to parallel with block-based visual programming.](https://ieeexplore.ieee.org/document/9637261) A. Solórzano}, A. Charão
+
+5. HPCS'2020 [Temporal Load Imbalance on Ondes3D Seismic Simulator for Different Multicore Architectures.](https://arxiv.org/abs/2409.11392) A. Solórzano}, P. Navaux, L. Schnorr
+
+6. PEARC'2020 [Using Visualization of Performance Data to Investigate Load Imbalance of a Geophysics Parallel Application.](https://dl.acm.org/doi/10.1145/3311790.3400844) A. Solórzano, L. Nesi, L. Schnorr
+
+## Leadership Experience
+
+- Co-founder [Brazilians in Tech](https://braziliansintech.com/) - organization to support women in technology
+
+- Co-founder Women in HPC Affiliate, South of Brazil
+
+- Supercomputing (SC): Student Lead Volunteer 2020/21, Artifacts Evaluator 2022, Student Volunteer 2019/18
+
+- IEEE eScience Media Chair 2022
+
+- High Performance Parallel and Distributed Computing (HPDC) - Chair for the  [PERMAVOST](https://permavost.github.io/2021.html) Workshop 2021/22/23
 
 ## Awards
 
@@ -28,13 +53,6 @@ Year | Award
 2020 | 1st place - HPC Systems Category in the STEM-Trek Science Slam [video contest](http://www.stem-trek.org/2020/11/15/scienceslamsc20-grand-prize-winner)
 2019 | 1st place ACM SRC at Grace Hopper Celebration (among 160 selected posters) 
 
----
+<!-- Here is a blockquote
 
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+> To a great mind, nothing is little -->
