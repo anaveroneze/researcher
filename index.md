@@ -18,10 +18,9 @@ All in my [Google Scholar.](https://scholar.google.com/citations?user=7Z_a7CcAAA
 
 1. SC'2024 Toward Sustainable HPC: In-Production Deployment of Incentive-Based Power Efficiency Mechanism on the Fugaku Supercomputer. A. Solórzano, K. Sato, D. Tiwari, K. Yamamoto, J. Brandt, B. Schwaller, S. Walton, J. Green, F. Shoji. **Best Student Paper Award Nomination**
 
-2. HPCMASPA - CLUSTER'2022 [LDMS Darshan Connector: For Run Time Diagnosis of HPC Application I/O Performance.](https://ieeexplore.ieee.org/document/9912673). S. Walton, O. Aaziz, A. Solórzano, B. Schwaller
+2. HPCMASPA - CLUSTER'2022 [LDMS Darshan Connector: For Run Time Diagnosis of HPC Application I/O Performance.](https://ieeexplore.ieee.org/document/9912673) S. Walton, O. Aaziz, A. Solórzano, B. Schwaller
 
-3. ISC'2022 [Understanding Distributed Deep Learning Performance by Correlating HPC and Machine Learning Measurements.](https://link.springer.com/chapter/10.1007/978-3-031-07312-0_14)
-. A. Solórzano, L. Schnorr, P. Navaux.
+3. ISC'2022 [Understanding Distributed Deep Learning Performance by Correlating HPC and Machine Learning Measurements.](https://link.springer.com/chapter/10.1007/978-3-031-07312-0_14) A. Solórzano, L. Schnorr, P. Navaux.
 
 4. FIE'202 [BlocklyPar: from sequential to parallel with block-based visual programming.](https://ieeexplore.ieee.org/document/9637261) A. Solórzano, A. Charão
 
@@ -58,6 +57,7 @@ Year | Award
 2022 | Pass it On Award by AnitaB.org (among 8 awardees)
 2022 | DAC Design Automation Conference Young Fellow
 2020 | 1st place - HPC Systems Category in the STEM-Trek Science Slam [video contest](http://www.stem-trek.org/2020/11/15/scienceslamsc20-grand-prize-winner)
+2019 | Grace Hopper Celebration Scholarship
 2019 | 1st place ACM SRC at Grace Hopper Celebration (among 160 selected posters) 
 
 <!-- Here is a blockquote

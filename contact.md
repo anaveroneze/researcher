@@ -3,12 +3,15 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* [LinkedIn](https://www.linkedin.com/in/anavs/)
+* [Github](http://github.com/anaveroneze)
+* [Google Scholar](https://scholar.google.com/citations?user=SAFui_IAAAAJ&hl=en&authuser=1)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [solorzano.an@northeastern.edu](solorzano.an@northeastern.edu)
+
 
 ---
-
+<!-- 
 ## Mailing Address
 
 > 221B, Baker Street
@@ -17,10 +20,4 @@ is_contact: true
 >
 > United Kingdom
 
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+--- -->
