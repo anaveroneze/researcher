@@ -35,11 +35,18 @@ All in my [Google Scholar.](https://scholar.google.com/citations?user=7Z_a7CcAAA
 
 - Co-founder Women in HPC Affiliate, South of Brazil
 
-- Supercomputing (SC): Student Lead Volunteer 2020/21, Artifacts Evaluator 2022, Student Volunteer 2019/18
+- Supercomputing (SC): Student Lead Volunteer 2020 and 2021
 
 - IEEE eScience Media Chair 2022
 
-- High Performance Parallel and Distributed Computing (HPDC) - Chair for the  [PERMAVOST](https://permavost.github.io/2021.html) Workshop 2021/22/23
+- High Performance Parallel and Distributed Computing (HPDC) - Chair for the  [PERMAVOST](https://permavost.github.io/2021.html) Workshop 2021, 2022 and 2023
+
+## Volunteer Experience
+
+- Supercomputing (SC) Artifacts Evaluator 2022
+- Supercomputing (SC) Student Volunteer 2019 and 2018
+- Computing Club Instructor for k-12 students to disseminate computational thinking: worked as a mentor offering free activities in the University and 8 schools.
+- Course Instructor for UniEscola: Project financed by CNPq (Brazilian government agency) to attract women into STEM careers in Santa Maria, Brazil. 
 
 ## Awards
 
