@@ -6,11 +6,11 @@ layout: default
 
 <img class="profile-picture" src="ana.png">
 
-Hi! I am a PhD student of Computer Engineering at Northeastern University in Boston.
+Hi! I am a PhD student of Computer Engineering at Northeastern University in Boston. I am interested in sustainability in HPC and data privacy. My goal is to use my experience in HPC to make a positive impact on society.
 
-## Research Interest
+Besides work, I enjoy reading self-development and dystopian books, practicing sports, and writing. I like to write about my travel experiences (and share carefully curated, detailed itineraries) and life lessons.
 
-TBD
+## Updates!
 
 ## Publications
 

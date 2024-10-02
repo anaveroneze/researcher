@@ -13,7 +13,6 @@ is_contact: true
 
 * Email: [solorzano.an@northeastern.edu](solorzano.an@northeastern.edu)
 
-
 ---
 <!-- 
 ## Mailing Address
