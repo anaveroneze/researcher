@@ -1,6 +1,6 @@
 title: Ana Solórzano
 url: "http://anaveroneze.github.io"
-baseurl: "/"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -9,14 +9,14 @@ tracking_id: #
 
 footer: yes
 footer_url: "http://anaveroneze.github.io"
-footer_text: "Page design by Ankit Sultana"
+footer_text: ""
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
-#  - name: "About"
-#    link: "/researcher/"
+ - name: "Updates"
+   link: "updates"
  - name: "Contact"
    link: "contact"
