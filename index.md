@@ -6,17 +6,17 @@ layout: default
 
 <img class="profile-picture" src="ana.png">
 
-Hi! I am a PhD student of Computer Engineering at Northeastern University in Boston. I am interested in sustainability in HPC and data privacy. My goal is to use my experience in HPC to make a positive impact on society.
+I am Ana, a PhD Candidate in Computer Engineering at Northeastern University in Boston, advised by Prof. [Devesh Tiwari](https://coe.northeastern.edu/people/tiwari-devesh/). I am researching on sustainability in HPC and data privacy. Before that, I worked with distributed deep learning and parallel computing. My goal is to use my experience in performance analysis, visualization, and large-scale systems to make a positive impact on society.
 
-Besides work, I enjoy reading self-development and dystopian books, practicing sports, and writing. I like to write about my travel experiences (and share carefully curated, detailed itineraries) and life lessons.
+Besides work, I enjoy reading self-development and dystopian books, practicing sports, and [writing](https://medium.com/@anaveroneze).
 
-## Updates!
+## [Updates](./updates.md)
 
 ## Publications
 
 All in my [Google Scholar.](https://scholar.google.com/citations?user=7Z_a7CcAAAAJ&hl=en)
 
-1. SC'2024 Toward Sustainable HPC: In-Production Deployment of Incentive-Based Power Efficiency Mechanism on the Fugaku Supercomputer. A. Solórzano, K. Sato, D. Tiwari, K. Yamamoto, J. Brandt, B. Schwaller, S. Walton, J. Green, F. Shoji. **Best Student Paper Award Nomination**
+1. SC'2024 Toward Sustainable HPC: In-Production Deployment of Incentive-Based Power Efficiency Mechanism on the Fugaku Supercomputer. <ins>A. Solórzano</ins>, K. Sato, D. Tiwari, K. Yamamoto, J. Brandt, B. Schwaller, S. Walton, J. Green, F. Shoji. **Best Student Paper Award Nomination**
 
 2. HPCMASPA - CLUSTER'2022 [LDMS Darshan Connector: For Run Time Diagnosis of HPC Application I/O Performance.](https://ieeexplore.ieee.org/document/9912673) S. Walton, O. Aaziz, <ins>A. Solórzano</ins>, B. Schwaller
 
