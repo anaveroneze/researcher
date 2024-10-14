@@ -1,4 +1,4 @@
-title: Ana Solórzano
+title: 
 url: "http://anaveroneze.github.io"
 baseurl: ""
 
@@ -16,7 +16,13 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "Home"
+   link: "index"
  - name: "Updates"
    link: "updates"
- - name: "Contact"
-   link: "contact"
+ - name: "Research"
+   link: "research"
+ - name: "Experience"
+   link: "experience"
+ - name: "Founder"
+   link: "founder"
