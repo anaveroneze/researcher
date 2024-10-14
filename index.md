@@ -8,7 +8,7 @@ layout: default
 
 I am Ana Veroneze Solórzano, a Brazilian-Peruvian researcher, computer scientist and leader of [Brazilians in Tech](https://www.braziliansintech.com). I am currently a PhD Candidate in Computer Engineering at Northeastern University in Boston, advised by Prof. [Devesh Tiwari](https://coe.northeastern.edu/people/tiwari-devesh/). I am researching on sustainability in HPC and data privacy. Before that, I worked with distributed deep learning and parallel computing. My goal is to use my experience in performance analysis, visualization, and large-scale systems to make a positive impact on society.
 
-Besides work, I enjoy reading self-development and dystopian books, practicing sports, and [writing](https://medium.com/@anaveroneze).
+<!-- Besides work, I enjoy reading self-development and dystopian books, practicing sports, and [writing](https://medium.com/@anaveroneze). -->
 
 ## [Updates](./updates.md)
 
@@ -43,10 +43,13 @@ All in my [Google Scholar.](https://scholar.google.com/citations?user=7Z_a7CcAAA
 
 ## Volunteer Experience
 
-- Supercomputing (SC): Artifacts Evaluator 2022
-- Supercomputing (SC): Student Volunteer 2019 and 2018
-- Computing Club Instructor - presented computational thinking for k-12 students in the countryside of Brazil, we offered and organized free activities in the university and 8 schools.
-- Instructor for UniEscola - university project financed by CNPq (Brazilian National Council for Scientific and Technological Development) to attract women into STEM careers in Santa Maria, Brazil.
+- 2022 - Supercomputing (SC) Conference: Artifacts Evaluator of accepted papers 
+- 2021 - Supercomputing (SC) Conference: Student Lead Volunteer during my MSCS in Brazil
+- 2020 - Supercomputing (SC) Conference: Student Lead Volunteer during my MSCS in Brazil
+- 2019 - Supercomputing (SC) Conference: Student Volunteer during my BCS in Brazil
+- 2018 - Supercomputing (SC) Conference: Student Volunteer during my BCS in Brazil
+- 2018 - 2019 - Instructor for UniEscola: university project financed by CNPq (Brazilian National Council for Scientific and Technological Development) to attract girls into STEM careers in Santa Maria, Brazil. We organized a group of 5 students to visit schools, present examples of women in STEM and introduced computational thinking. 
+- 2015 - 2018 - Computing Club Instructor: university project to introduce computational thinking for K-12 students in the countryside of Brazil. We offered and organized free activities in the university and in 8 schools using Blockly, MIT App Inventor, Hour of Code and Scratch.
 
 ## Awards
 
