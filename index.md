@@ -62,13 +62,9 @@ Year | Award
 2019 | Grace Hopper Celebration Scholarship
 2019 | 1st place ACM SRC at Grace Hopper Celebration (among 160 selected posters) 
 
-
-## Links
-
-* [LinkedIn](https://www.linkedin.com/in/anavs/)
-* [Github](http://github.com/anaveroneze)
-* [Google Scholar](https://scholar.google.com/citations?user=SAFui_IAAAAJ&hl=en&authuser=1)
-* [Medium](https://medium.com/@anaveroneze)
+---
+Let's connect ツ
+[LinkedIn](https://www.linkedin.com/in/anavs/) | [Github](http://github.com/anaveroneze) | [Google Scholar](https://scholar.google.com/citations?user=SAFui_IAAAAJ&hl=en&authuser=1) | [Medium](https://medium.com/@anaveroneze)
 
 
 <!-- Here is a blockquote
