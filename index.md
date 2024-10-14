@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## About Me
+## Hi, I'm Ana!
 
 <img class="profile-picture" src="ana.png">
 
-I am Ana, a PhD Candidate in Computer Engineering at Northeastern University in Boston, advised by Prof. [Devesh Tiwari](https://coe.northeastern.edu/people/tiwari-devesh/). I am researching on sustainability in HPC and data privacy. Before that, I worked with distributed deep learning and parallel computing. My goal is to use my experience in performance analysis, visualization, and large-scale systems to make a positive impact on society.
+I am Ana Veroneze Solórzano, a PhD Candidate in Computer Engineering at Northeastern University in Boston, advised by Prof. [Devesh Tiwari](https://coe.northeastern.edu/people/tiwari-devesh/). I am researching on sustainability in HPC and data privacy. Before that, I worked with distributed deep learning and parallel computing. My goal is to use my experience in performance analysis, visualization, and large-scale systems to make a positive impact on society.
 
 Besides work, I enjoy reading self-development and dystopian books, practicing sports, and [writing](https://medium.com/@anaveroneze).
 
