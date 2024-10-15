@@ -8,8 +8,6 @@ layout: default
 
 I am Ana Veroneze Solórzano, a Brazilian-Peruvian researcher, computer scientist and leader of [Brazilians in Tech](https://www.braziliansintech.com). I am currently a PhD Candidate in Computer Engineering at Northeastern University in Boston, advised by Prof. [Devesh Tiwari](https://coe.northeastern.edu/people/tiwari-devesh/). I am researching on sustainability in HPC and data privacy. Before that, I worked with distributed deep learning and parallel computing. My goal is to use my experience in performance analysis, visualization, and large-scale systems to make a positive impact on society.
 
-<!-- Besides work, I enjoy reading self-development and dystopian books, practicing sports, and [writing](https://medium.com/@anaveroneze). -->
-
 ## Interests
 
 High-Performance Computing | Sustainable HPC | Data Privacy
