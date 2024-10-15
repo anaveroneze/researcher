@@ -24,5 +24,7 @@ nav:
    link: "research"
  - name: "Experience"
    link: "experience"
+ - name: "Personal"
+   link: "personal"
  - name: "Founder"
    link: "founder"
