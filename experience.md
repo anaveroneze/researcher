@@ -1,6 +1,7 @@
-# Work Experience
+# Employments
 
-# Volunteer Experience
+
+# Volunteering
 
 * 20/21/2023 **High Performance Parallel and Distributed Computing (HPDC) - Chair for the  [PERMAVOST](https://permavost.github.io/2021.html) Workshop**
 - 2022       **IEEE eScience Media Chair**
