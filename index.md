@@ -10,8 +10,6 @@ I am Ana Veroneze Solórzano, a Brazilian-Peruvian researcher, computer scientis
 
 <!-- Besides work, I enjoy reading self-development and dystopian books, practicing sports, and [writing](https://medium.com/@anaveroneze). -->
 
-## [Updates](./updates.md)
-
 ## Publications
 
 All in my [Google Scholar.](https://scholar.google.com/citations?user=7Z_a7CcAAAAJ&hl=en)
