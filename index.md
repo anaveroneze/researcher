@@ -10,6 +10,16 @@ I am Ana Veroneze Solórzano, a Brazilian-Peruvian researcher, computer scientis
 
 <!-- Besides work, I enjoy reading self-development and dystopian books, practicing sports, and [writing](https://medium.com/@anaveroneze). -->
 
+## Interests
+
+High-Performance Computing | Sustainable HPC | Data Privacy
+
+## Education
+
+- Ph.D. Candidate in Computer Engineering, Northeastern University
+- M.S. in Computer Science, Federal University of Rio Grande do Sul, Brazil
+- BSc in Computer Science, Federal University of Santa Maria, Brazil
+
 ## Publications
 
 All in my [Google Scholar.](https://scholar.google.com/citations?user=7Z_a7CcAAAAJ&hl=en)
@@ -25,16 +35,6 @@ All in my [Google Scholar.](https://scholar.google.com/citations?user=7Z_a7CcAAA
 5. HPCS'2020 [Temporal Load Imbalance on Ondes3D Seismic Simulator for Different Multicore Architectures.](https://arxiv.org/abs/2409.11392) <ins>A. Solórzano</ins>, P. Navaux, L. Schnorr
 
 6. PEARC'2020 [Using Visualization of Performance Data to Investigate Load Imbalance of a Geophysics Parallel Application.](https://dl.acm.org/doi/10.1145/3311790.3400844) <ins>A. Solórzano</ins>, L. Nesi, L. Schnorr
-
-## Volunteer Experience
-
-- 20/21/2023 High Performance Parallel and Distributed Computing (HPDC) - Chair for the  [PERMAVOST](https://permavost.github.io/2021.html) Workshop
-- 2022 - IEEE eScience Media Chair
-- 2022 - Supercomputing (SC) Conference: Artifacts Evaluator of accepted papers 
-- 20/2021 - Supercomputing (SC): Student Lead Volunteer during my MSCS in Brazil
-- 18/2019 - Supercomputing (SC): Student Volunteer during my BCS in Brazil
-- 18/2019 - Instructor for UniEscola: university project financed by CNPq (Brazilian National Council for Scientific and Technological Development) to attract girls into STEM careers in Santa Maria, Brazil. We organized a group of 5 students to visit schools, present examples of women in STEM and introduced computational thinking. 
-- 2015 - 2018 - Computing Club Instructor: university project to introduce computational thinking for K-12 students in the countryside of Brazil. We offered and organized free activities in the university and in 8 schools using Blockly, MIT App Inventor, Hour of Code and Scratch.
 
 ## Awards
 
