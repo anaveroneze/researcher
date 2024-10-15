@@ -26,27 +26,16 @@ All in my [Google Scholar.](https://scholar.google.com/citations?user=7Z_a7CcAAA
 
 6. PEARC'2020 [Using Visualization of Performance Data to Investigate Load Imbalance of a Geophysics Parallel Application.](https://dl.acm.org/doi/10.1145/3311790.3400844) <ins>A. Solórzano</ins>, L. Nesi, L. Schnorr
 
-## Leadership Experience
-
-- Co-founder [Brazilians in Tech](https://braziliansintech.com/) - organization to support Brazilian women in technology 2019
-
-- Co-founder Women in HPC Affiliate, South of Brazil 2020
-
-- High Performance Parallel and Distributed Computing (HPDC) - Chair for the  [PERMAVOST](https://permavost.github.io/2021.html) Workshop 2021, 2022 and 2023
-
-- Supercomputing (SC): Student Lead Volunteer 2020 and 2021
-
-- IEEE eScience Media Chair 2022
-
-
 ## Volunteer Experience
 
+- 20/21/2023 High Performance Parallel and Distributed Computing (HPDC) - Chair for the  [PERMAVOST](https://permavost.github.io/2021.html) Workshop
+- 2022 - IEEE eScience Media Chair
 - 2022 - Supercomputing (SC) Conference: Artifacts Evaluator of accepted papers 
 - 2021 - Supercomputing (SC) Conference: Student Lead Volunteer during my MSCS in Brazil
 - 2020 - Supercomputing (SC) Conference: Student Lead Volunteer during my MSCS in Brazil
 - 2019 - Supercomputing (SC) Conference: Student Volunteer during my BCS in Brazil
 - 2018 - Supercomputing (SC) Conference: Student Volunteer during my BCS in Brazil
-- 2018 - 2019 - Instructor for UniEscola: university project financed by CNPq (Brazilian National Council for Scientific and Technological Development) to attract girls into STEM careers in Santa Maria, Brazil. We organized a group of 5 students to visit schools, present examples of women in STEM and introduced computational thinking. 
+- 18/2019 - Instructor for UniEscola: university project financed by CNPq (Brazilian National Council for Scientific and Technological Development) to attract girls into STEM careers in Santa Maria, Brazil. We organized a group of 5 students to visit schools, present examples of women in STEM and introduced computational thinking. 
 - 2015 - 2018 - Computing Club Instructor: university project to introduce computational thinking for K-12 students in the countryside of Brazil. We offered and organized free activities in the university and in 8 schools using Blockly, MIT App Inventor, Hour of Code and Scratch.
 
 ## Awards
