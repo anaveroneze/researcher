@@ -1,12 +1,15 @@
 # Employments
 
 - <img class="experience-picture" src="./img/riken_logo.jpeg"> **Internship** RIKEN
+Developed a tool to predict hardware failures occurrences in the Fugaku supercomputer using Generative AI. Explored different classification models (XGBoost, Random Forest and Decision Tree).
 
 - <img class="experience-picture" src="./img/snl.png"> **Research Assistant** SNL
+Evaluated a tool to collect telemetry and I/O access information in large-scale systems. Performed characterization of the Fugaku supercomputer usage and analyzed the usage of energy savings mechanisms.
 
-- <img class="experience-picture" src="./img/anl.jpg"> **Research Assistant** ANL
+- <img class="experience-picture" src="./img/anl.jpg"> **Research Assistant** ANL Evaluated the overhead and performance of Trusted Execution Environments (enclaves) for 9 distributed benchmarks exploring I/O, memory, CPU and network for AMD SEV (EPYC 7601) and AWS Nitro.
 
 - <img class="experience-picture" src="./img/inpe.png"> **Student Researcher** INPE
+Parallelized a clustering algorithm with OpenACC, using 2$\times$NVIDIA Tesla K80, achieving up to 48$\times$ speedup compared to the serial CPU-only. Developed a web portal for remote execution of the algorithms.
 
 - <img class="experience-picture" src="./img/ibge.png"> **Census Taker** IBGE
 
