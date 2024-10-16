@@ -1,6 +1,6 @@
 # Employments
 
-- **Internship** RIKEN
+- <img class="experience-picture" src="./img/riken_logo.jpeg"> **Internship** RIKEN
 - **Research Assistant** SNL
 - **Research Assistant** ANL
 - **Student Researcher** INPE
