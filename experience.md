@@ -27,4 +27,3 @@ eeveloped a tool to predict hardware failures occurrences in the Fugaku supercom
 - *2015/16/17/18* **Instructor**, Computing Club: university project to introduce computational thinking for K-12 students in the countryside of Brazil. We offered and organized free activities in the university and in 8 schools using Code.org, Blockly-Games, MIT App Inventor, and Studio Sketchpad (JavaScript).
 - *2014* **Leader of Media** at the FIFA World Cup in Porto Alegre, Brazil 
 
-<div style="margin-top: 20px;"></div>
