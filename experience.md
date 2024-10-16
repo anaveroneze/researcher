@@ -9,9 +9,11 @@ Evaluated a tool to collect telemetry and I/O access information in large-scale 
 - <img class="experience-picture" src="./img/anl.jpg"> **Research Assistant** ANL Evaluated the overhead and performance of Trusted Execution Environments (enclaves) for 9 distributed benchmarks exploring I/O, memory, CPU and network for AMD SEV (EPYC 7601) and AWS Nitro.
 
 - <img class="experience-picture" src="./img/inpe.png"> **Student Researcher** INPE
-Parallelized a clustering algorithm with OpenACC, using 2$\times$NVIDIA Tesla K80, achieving up to 48$\times$ speedup compared to the serial CPU-only. Developed a web portal for remote execution of the algorithms.
+Parallelized a clustering algorithm with OpenACC, using 2xNVIDIA Tesla K80, achieving up to 48x speedup compared to the serial CPU-only. Developed a web portal for remote execution of the algorithms.
 
 - <img class="experience-picture" src="./img/ibge.png"> **Census Taker** IBGE
+
+----
 
 # Volunteering
 
