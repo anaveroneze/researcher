@@ -9,7 +9,7 @@ eeveloped a tool to predict hardware failures occurrences in the Fugaku supercom
 
 - <img class="experience-picture" src="./img/inpe.png"> *2018/19* **Student Researcher** National Institute for Space Research: Parallelized a clustering algorithm with OpenACC, using 2xNVIDIA Tesla K80, achieving up to 48x speedup compared to the serial CPU-only. Developed a web portal for remote execution of the algorithms.
 
-- <img class="experience-picture" src="./img/ibge.png"> *2014* **Census Taker** The Brazilian Institute of Geography and Statistics: interviewed the population for the Continuous National Household Sample Survey. 
+- <img class="experience-picture" src="./img/ibge.png"> *2014* **Census Taker** Brazilian Institute of Geography and Statistics: interviewed the population for the Continuous National Household Sample Survey. 
 
 <div style="margin-top: 20px;"></div>
 
@@ -26,3 +26,5 @@ eeveloped a tool to predict hardware failures occurrences in the Fugaku supercom
 - *2018/19*    **Mentor**, for middle school students participating in the [Brazilian Olympiad of Informatics](https://olimpiada.ic.unicamp.br).
 - *2015/16/17/18* **Instructor**, Computing Club: university project to introduce computational thinking for K-12 students in the countryside of Brazil. We offered and organized free activities in the university and in 8 schools using Code.org, Blockly-Games, MIT App Inventor, and Studio Sketchpad (JavaScript).
 - *2014* **Leader of Media** at the FIFA World Cup in Porto Alegre, Brazil 
+
+<div style="margin-top: 20px;"></div>
