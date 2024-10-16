@@ -12,6 +12,7 @@ eeveloped a tool to predict hardware failures occurrences in the Fugaku supercom
 - <img class="experience-picture" src="./img/ibge.png"> *2014* **Census Taker** The Brazilian Institute of Geography and Statistics: interviewed the population for the Continuous National Household Sample Survey. 
 
 <div style="margin-top: 20px;"></div>
+
 ----
 
 # Volunteering
