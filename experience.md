@@ -13,6 +13,7 @@ Parallelized a clustering algorithm with OpenACC, using 2xNVIDIA Tesla K80, achi
 
 - <img class="experience-picture" src="./img/ibge.png"> **Census Taker** IBGE
 
+<div style="margin-top: 20px;"></div>
 ----
 
 # Volunteering
