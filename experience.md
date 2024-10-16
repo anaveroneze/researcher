@@ -1,10 +1,14 @@
 # Employments
 
 - <img class="experience-picture" src="./img/riken_logo.jpeg"> **Internship** RIKEN
-- **Research Assistant** SNL
-- **Research Assistant** ANL
-- **Student Researcher** INPE
-- **Census Taker** IBGE
+
+- <img class="experience-picture" src="./img/snl.png"> **Research Assistant** SNL
+
+- <img class="experience-picture" src="./img/anl.jpg"> **Research Assistant** ANL
+
+- <img class="experience-picture" src="./img/inpe.png"> **Student Researcher** INPE
+
+- <img class="experience-picture" src="./img/ibge.png"> **Census Taker** IBGE
 
 # Volunteering
 
