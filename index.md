@@ -46,7 +46,7 @@ Year | Award
 2021 | Palantir Global Impact Scholarship (10 awardees from ~1000 applications)
 2020 | 1st place - HPC Systems Category in the STEM-Trek Science Slam [video contest](http://www.stem-trek.org/2020/11/15/scienceslamsc20-grand-prize-winner)
 2019 | Grace Hopper Celebration Scholarship
-2019 | 1st place ACM SRC at Grace Hopper Celebration (among 160 selected posters) 
+2019 | 1st place [ACM SRC at Grace Hopper Celebration](https://src.acm.org/winners/2020) (among 160 selected posters) 
 
 ---
 Let's connect ツ
