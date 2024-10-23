@@ -1,6 +1,3 @@
-# Founder
-
-
 ## [Brazilians in Tech](http://braziliansintech.com)
 <img src="./img/bit.png" height="350" style="display: block; margin: 0 auto"> 
 
