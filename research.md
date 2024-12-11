@@ -1,6 +1,6 @@
 # Research
 
-## Darshan-LDMS Integrator:
+## Darshan-LDMS Integrator
 
 - A framework that integrates Darshan (I/O application monitoring) and LDMS (system monitoring) to provide low-latency monitoring of distributed applications running in large-scale systems during runtime.
 - Officially deployed in [Darshan 3.4.5](https://wordpress.cels.anl.gov/darshan/2024/05/03/darshan-3-4-5-now-available/).
